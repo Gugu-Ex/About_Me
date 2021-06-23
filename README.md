@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou o Gustavo!
+- 🎮 Sou formado em Jogos Digitais
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Python, C#, HTML e CSS.
+- 💞️ Cheque meus trabalhos!
+- 📫 Contato: gugu-ex@hotmail.com
